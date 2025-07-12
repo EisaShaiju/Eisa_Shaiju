@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hey there<br><br>Welcome to my GitHub!<br><br>🚀 I'm an engineer and builder, passionate about solving real-world problems using technology.  <br>💡 I work across Machine Learning, Embedded Systems, and Full-Stack Development.  <br>🌱 Currently exploring:<br>- Fine-tuning LLMs for domain-specific tasks<br>- Audio signal analysis for fault detection in mechanical systems  <br>🔭 Ongoing Projects:<br>- YouTube video summarizer using LLMs  <br>- Gear fault diagnosis from audio data  <br>- FastAPI + Supabase backend for a Streamlit app  <br>- Smart packaging for temperature-sensitive goods  <br><br>📚 I believe in learning by building and iterating fast.  <br><br><br>🧠 Always open to collaboration.  <br>📬 Reach me for projects, research, or just to brainstorm: [eisashaiju@gmail.com]<br><br>
+### 👋 Hey there<br><br>Welcome to my GitHub!<br><br>🚀 I'm an engineer and builder, passionate about solving real-world problems using technology.  <br>💡 I work across Machine Learning, Embedded Systems, and Full-Stack Development.<br><br><br>🧠 Always open to collaboration.  <br>📬 Reach me for projects, research, or just to brainstorm: [eisashaiju@gmail.com]<br><br>
 
 
 ## 🌐 Socials:
